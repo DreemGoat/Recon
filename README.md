@@ -1,1 +1,2 @@
-# Recon-Projecet
+# Recon-Project
+Members: Filbert and Daniel
