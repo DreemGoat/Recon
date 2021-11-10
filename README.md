@@ -10,3 +10,8 @@ Daniel - 2501990312\
 Description : \
 Recording app for Android, IOS and Tablet \
 \
+Features : \
+- Record visual and audio
+- File compression
+- Video editing
+
