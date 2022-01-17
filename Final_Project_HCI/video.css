@@ -1,0 +1,21 @@
+.videos{
+    background-color: grey;
+    height: 110px;
+    position: fixed;
+    width: 95%;
+}
+
+.box{
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 25px;
+  background: black;
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+}
+
+.text{
+    float: right;
+    margin-right: 15%;
+}
