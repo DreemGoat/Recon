@@ -1,0 +1,19 @@
+.settings .box{
+    width: 50%;
+    border: 10px;
+    padding: 30px;
+}
+
+.settings .icon{
+    height: 60px;
+    width: 60px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.settings .text{
+    float: right;
+    font-size: 30px;
+    text-align: center;
+}
